@@ -57,5 +57,6 @@ python -m venv venv
 streamlit run app.py
 
 Local URL:  http://localhost:8501
+
 ### **Preview**
-![Chatbot Screenshot](https://github.com/om-prakash416/AI-chatBot/blob/main/image.png)
+![Chatbot Screenshot](https://raw.githubusercontent.com/om-prakash416/AI-chatBot/main/image.png)
